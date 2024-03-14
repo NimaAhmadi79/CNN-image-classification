@@ -44,3 +44,7 @@ scikit-learn
 ## Author 
 Nima Ahmadi
 
+## Contact:
+
+For any inquiries, please contact Nima87760@gmail.com.
+
